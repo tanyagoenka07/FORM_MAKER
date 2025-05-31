@@ -3,12 +3,7 @@
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tanyagoenka2207-gmailcoms-projects/v0-mern-stack-form-builder)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/1PaGB66xLwN)
 
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
 ## Deployment
 
@@ -16,15 +11,35 @@ Your project is live at:
 
 **[https://vercel.com/tanyagoenka2207-gmailcoms-projects/v0-mern-stack-form-builder](https://vercel.com/tanyagoenka2207-gmailcoms-projects/v0-mern-stack-form-builder)**
 
-## Build your app
+🚀 Overview
+Form Maker is a powerful, full-stack form builder application that allows users to create, customize, and publish forms with ease. Built with Next.js and MongoDB, it provides a complete solution for form creation, response collection, and data analysis.
 
-Continue building your app on:
+✨ Features
+Form Building
+Drag-and-Drop Builder: Intuitive interface to build forms without coding
+15+ Field Types: Text, Email, Phone, Select, Checkbox, Radio, Date, File Upload, and more
+Field Validation: Required fields, custom validation rules
+Form Styling: Customize colors, fonts, and appearance
+Form Management
+Save & Publish: Save drafts or publish forms instantly
+Unique URLs: Each form gets a shareable link
+Form Editing: Update forms anytime
+Duplicate Forms: Create copies of existing forms
+Response Collection
+Real-time Responses: View submissions as they come in
+Response Dashboard: Analyze data with visual representations
+CSV Export: Download responses as spreadsheet
+Data Storage: All responses securely stored in MongoDB
 
-**[https://v0.dev/chat/projects/1PaGB66xLwN](https://v0.dev/chat/projects/1PaGB66xLwN)**
+Admin Features
+Admin Dashboard: Complete overview of all forms
+Analytics: Track views, submissions, and completion rates
+Form Management: Create, edit, delete, and duplicate forms
+User Management: (Coming Soon) Manage team access and permissions
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🛠 Tech Stack
+Frontend: Next.js, React, Tailwind CSS
+Backend: Next.js API Routes
+Database: MongoDB
+Styling: Tailwind CSS, shadcn/ui components
+Deployment: Vercel
